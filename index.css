@@ -1,0 +1,32 @@
+#calc {
+  margin: auto;
+  max-width: 1200px;
+  text-align: center;
+}
+#calc .flex {
+
+}
+#calc input {
+  font-size: 30px;
+  width: 190px;
+  text-align: center;
+}
+#calc .center {
+  
+}
+#calc .flex {
+  display: flex;
+  justify-content: center;
+}
+#calc .row {
+  
+}
+#calc .action {
+  display: flex;
+  flex-direction: column;
+}
+#calc .text {
+  font-size: 20px;
+  padding: 2px 10px;
+  margin: 8px;
+}
