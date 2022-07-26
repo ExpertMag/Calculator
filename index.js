@@ -45,7 +45,6 @@ num2 = Number(num);
 function splitString(stringToSplit, separator) {
   var arrayOfStrings = stringToSplit.split(separator);
 
-  //console.log(stringToSplit);
   console.log(arrayOfStrings);
 }
 
